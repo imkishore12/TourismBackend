@@ -15,13 +15,13 @@ const route = require("express").Router()
 
 const auth = require('../Middleware/auth')
 
-const {login,register,home,cart} =require('../Controller/Api')
+const {login,register,tourpackages,touroffers} =require('../Controller/Api')
 route.post("/register",register )
 route.post("/login",login );
 
-route.get('/home',home)
-route.get('/tourpackages',auth,cart)
-route.get('/touroffers',auth,cart)
+
+route.get('/tourpackages',auth,tourpackages)
+route.get('/touroffers',auth,touroffers)
 
 
 module.exports = route;
