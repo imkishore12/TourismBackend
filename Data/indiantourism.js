@@ -263,12 +263,103 @@ const indiantourism=[
            
 
 
+        },
+        
+        {
+            "id":Count++,
+            "category":"offers",
+            "Image":"https://www.theindiatourism.com/images/Beach-Holidays-India.jpg",
+            "State":"Beach Holidays in India",
+            "Description":"Beach Tour Packages in India are designed keeping in mind discerning needs of the tourists. Some tourists want to relish holidays besides the beaches. Many tourists prefer beach holidaying in the last leg of their India tour. Still the foremost choices of <b>beach travel</b> in India include the beautiful sea shores of Goa, where the tropical sun bathed beaches of Anjuna, Baga & Dona Paula have something for every visitor. Other beaches such as <b>Kovalam,</b> <b>Marina and Juhu,</b> not just focus on tourism they are also venues for recreation and entertainment for the local population and the outstation tourists.Go through our various <b>India Beach Tour Packages</b> to pick the one that best fits your budget and duration of your tour and enjoy a memorable <b>beach holiday</b> in India. We have every type of India beach tour packages to fulfill your desires whether you are looking for <b>honeymoon package</b> to Goa or a beach holiday in Kerala, you  can pick the best as per your choice from our comprehensive India beach tour packages at exciting prices. So, without giving it to a second thought book your India beach holiday package online through Rover Holidays and be ready to experience the most rejuvenating <b>beach holiday in India.</b><br><br><b>Goa Beach Tour Packages :-</b> Goa, is the 'beach paradise' of India and also the home to some of the world's finest beaches that can be explored during a beach holiday in India. <br><br><b>Kerala Beach Tour Packages :-</b> Kerala has numerous enchanting beaches, most of which are utterly pristine and unspoilt. The most famous of the beaches of <b>Kerala</b> is <b>Kovalam Beach,</b> which, located near Thiruvananthapuram.<br><br><b>Andaman Beach Tour Packages :-</b> Andaman is a popular beach destination of India. In fact it is a group of islands, Andaman comes under some of the best beaches of the world. Andaman has some of the best beaches named Neil Island, and <b>Radhanagar Beach</b> which receives the maximum numbers of tourist on Andaman Tour.<br><br><b>Gujarat Beach Tour Packages :-</b> A trip to Gujarat is rejuvenating, relaxing, and exciting as one could enjoy in viewing best beaches, historical sites, and picturesque landscapes. Find our collection of elegantly crafted Gujarat Tour Beach Packages and explore the main tourist places and attractions of Gujarat. <b>Mandvi,</b> Veraval And <b>Diu</b> are some of the best beach of Gujarat, you must try out our Best Gujarat Beach Tour Packages.<br><br><b>Lakshadweep Beach Tour Packages :- </b>Lakshadweep has 36 islands, Only 10 are inhabited and only five are accessible to tourists. It is the only place in India where you can find a coral reef formation. Book our Lakshadweep Beach tour packages and explore the beauty of Lakshadweep at its best.",
+            // "History":"",
+            // "fairfestivals":"",
+            // "Reach":"",
+            
+            
+        },
+        {
+            "id":Count++,
+            "category":"offers",
+            "Image":"https://www.theindiatourism.com/images/Golden-Triangle-package.webp",
+            "State":"Golden Triangle India Tour",
+            "Description":"India's <b>golden triangle</b> is a tourist circuit which connects the national capital <b>Delhi,</b> <b>Agra</b> and <b>Jaipur.</b> The Golden Triangle is so called because of the triangular shape formed by the locations of New Delhi, Agra and Rajasthan on a map. But now Amritsar is emerging as fourth angle of this triangle. The trips usually start in Delhi moving south to the site of <b>Taj Mahal</b> at Agra, then west, to the desert landscapes of Rajasthan. It is normally possible to do the trip by coach or private journey through most tour operators. The Golden Triangle is now a well traveled route providing a good spectrum of the country's different landscapes. The circuit is about 720 km by road. Each leg is about 4 to 6 hours of drive. The Shatabdi express train also connects Delhi with Agra and Jaipur.Golden triangle India welcome tourists to best of Indian Destinations that will make your journey memorable. So, if you want to taste the culture and religion of India, golden triangle package is the good choice for you.<br><b>The India Tourism</b> clubbed this Golden Triangle Tour with many splendid places of India like Amritsar, Goa,Kerala, Varanasi, Himachal, Khajuraho and many more. Then still what are you thinking, set forth on any Golden Triangle Tour & nearby Destination Packages listed below and enjoy a rich holiday experience in India. If you still haven’t found the right tour that you were looking for, email us or talk to our dedicated tour consultants who will be happy to tailor-make one for you.",
+            // "History":"",
+            // "fairfestivals":"",
+            // "Reach":"",
+            
+
+
         }
-       
+        ,
+        {
+            "id":Count++,
+            "category":"offers",
+            "Image":"https://www.theindiatourism.com/images/Hill-Station-Holidays.jpg",
+            "State":"Hill Station Holidays",
+            "Description":"<b>Hill Stations</b> are the best ones to escape from the sweltering warmth, pollution and chaos of the city. In India, Hill Stations are always being the first choice among friends, <b>families,</b> <b>couples,</b> <b>students,</b> <b>honeymooners</b> and the professionals, to spend their vacations at a much slower pace away from the hustle and bustle. People, particularly those living in the urban areas, favor the unwinding environment of a hill station as it is a welcome relief away from the everyday life. The hill stations of India are famously known for their abundance in pristine natural beauty and flora and fauna. We cater to destinations like <b>Nainital,</b> <b>Shimla,</b> <b>Manali, Kullu,</b> <b>Mussourie,</b> <b>Almora,</b> <b>Ranikhet,</b> <b>Gulmarg,</b> <b>Dharamshala, Dalhousie, Lansdowne, Gangtok,</b> etc. Delhi Weekend Tours offers you to come and experience magnificent landscapes, pureness of oxygen and peace of mind away from the everyday hustle bustle.<br>",
+            // "History":"",
+            // "fairfestivals":"",
+            // "Reach":"",
+            
 
 
+        },
+        
+        {
+            "id":Count++,
+            "category":"offers",
+            "Image":"https://www.theindiatourism.com/images/Honeymoon-tour-India.jpg",
+            "State":"Honeymoon Packages India",
+            "Description":"Honeymoon is the time when everything would look ecstatic and <b>romantic.</b> It is not some simple vacation that is focused on hill station destination. This is the vacation that you and your special one will remember throughout your life. Ask any of your married friends about their <b>honeymoon tour</b> and you would see their face lightening up. Rajasthan fits the bill for royal honeymoon in India. Cover historic sites, culturally-enriched places, majestic forts, palaces, temples, the <b>Thar Desert,</b> stay in heritage hotels and more. In fact, <b>Udaipur</b> is Rajasthan one of the most romantic places in the world. <b>Jaipur, Jaisalmer, Mount Abu, Bikaner, Jodhpur</b> and more are important markers of the tour. For beach bums who just want some time alone, we have several itineraries that will offer the ideal beach honeymoon in India. Popular names include <b>Goa, Kerala,</b> and Andaman, while the others are <b>Pondicherry, Alibag, Daman & Diu, Lakshadweep,</b> Gokarna and so many more. Here, <b>Kerala tour packages</b> earn bonus points here, owing to its blissful spread of backwaters, hill stations, <b>wildlife</b> sanctuaries, pampering Ayurveda sessions, culture along with the scenic beaches.            ",
+            // "History":"",
+            // "fairfestivals":"",
+            // "Reach":"",
+            
 
 
+        },
+        {
+            "id":Count++,
+            "category":"offers",
+            "Image":"https://www.theindiatourism.com/images/Luxury-Trains-Tours.jpg",
+            "State":"Luxury Trains Tours",
+            "Description":"<b>India Luxury Tours</b> to India is one of the most sought after travel segment. India has emerged as a fast-growing <b>luxury destination</b> on the world map from the past few years. The variety that India has to offer in its landscape, culture, traditions, cuisine and in many other things, is rarely found in any other part of the world. the luxury tour packages are planned keeping in mind the taste and needs of the tourists. The trip is a meticulous work that incorporates all the major Indian attractions. Under these packages guests get to explore traditional fairs, forts, beaches, colorful festivals, ancient temples and the cruises etc. Enjoy Luxury tours in India as you holiday in a elapsed era sated with <b>luxurious heritage</b> in forts and palaces of Rajasthan or have a thrilled experience in the backwoods of Ranthambhore or in a lethargic mood in <b>Goa</b> or in the backwaters of Kerala.",
+            // "History":"",
+            // "fairfestivals":"",
+            // "Reach":"",
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"offers",
+            "Image":"https://www.theindiatourism.com/images/Pilgrimage-Tours.jpg",
+            "State":"Pilgrimage Tours",
+            "Description":"India Pilgrimage Tour is a specialized segment of The India Tourism, offering best pilgrimage tour packages in India at most affordable prices! offers tours to various religious destinations in India such as <b>Varanasi,</b> vaishno devi, Mansarovar, <b>Mathura,</b> Dharamsala, <b>Amritsar,</b> <b>Rishikesh,</b> <b>Kedarnath,</b> <b>Badrinath,</b> Dwarka, Bodhgaya and Amarnath along with various other destinations for a spiritual experience in India. From temples of North to South and from holy places on the eastern side of the country to sacred shrines like Shirdi in the western part, we cover almost every pilgrimage place in India. The <b>12 Jyotirlinga</b> Darshan is the most revered pilgrim tour and allows the devotees of Lord Shiva to seek the blessings of the Almighty.We at Pilgrimage cater our services to those looking to embark on the spiritual tours in India & abroad like the Kailash Mansarovar,Char Dham, Amarnath Yatra and many more. On this website, you'll find packages covering almost all the religious places in India.With approximately 50+ pilgrimage tour packages, we can proudly say that you will find the best deals to explore all the holy places in India.",
+            // "History":"",
+            // "fairfestivals":"",
+            // "Reach":"",
+            
+
+
+        },
+        {
+            "id":Count++,
+            "category":"offers",
+            "Image":"https://www.theindiatourism.com/images/Wildlife-Tours.jpg",
+            "State":"Kerala Holiday Packages",
+            "Description":"Kerala, a state situated on the tropical Malabar Coast of southwestern India, is one of the most popular tourist destinations in the country. Named as one of the ten paradises of the world by National Geographic Traveler, Kerala is famous especially for its ecotourism initiatives and beautiful backwaters. Its unique culture and traditions, coupled with its varied demography, have made Kerala one of the most popular tourist destinations in the world. Growing at a rate of 13.31%, the tourism industry is a major contributor to the state's economy.Until the early 1980s, Kerala was a relatively unknown destination, with most tourism circuits concentrated around the north of the country. Aggressive marketing campaigns launched by the Kerala Tourism Development Corporation—the government agency that oversees tourism prospects of the state—laid the foundation for the growth of the tourism industry. In the decades that followed, Kerala Tourism was able to transform itself into one of the niche holiday destinations in India. The tag line Kerala – God's Own Country was adopted in its tourism promotions and became a global superbrand. Kerala is regarded as one of the destinations with the highest brand recall. In 2010, Kerala attracted 660,000 foreign tourist arrivals.",
+            // "History":"The history of Kerala, India, dates back many millennia. Stone Age carvings in the Edakkal Caves feature pictorial writings believed to date to at least the Neolithic era around 5,000 BC, indicating the presence of a prehistoric civilisation or settlement in this region. From as early as 3000 BC, Chera nadu, currently known as Kerala had established itself as a major spice trade centre. Keralam, the then Chera nadu had direct contact across the Arabian Sea with all the major Mediterranean and Red Sea ports as well those of the Far East. The spice trade between Kerala and much of the world was one of the main drivers of the world economy. For much of history, ports in Kerala were the busiest (Muziris) among all trade and travel routes in the history of the world.",
+            // "fairfestivals":"Kerala with its beautiful landscapes has more than enough reason to celebrate. And the varied culture of the state has given expression to a colorful mosaic of festivals and fairs. The spirit of celebration is very much a part of the ethos of the state of Kerala and for visitors to this state,its fairs and festivals are a must see event to be included in their travel",
+            // "Reach":"Kerala has more than 200 railway stations, connecting various major cities as well as small towns of the state. Direct trains to various destinations in Kerala can be availed from major Indian cities such as Delhi, Mumbai, Chennai, Bangalore, and Kolkata, among others. Superfast and express trains such as Rajdhani and Duronto connect the larger junctions, whereas mail and passenger trains are also easily available. Kerala's railway network runs from Kasargod, a northwestern point of the state, to the southwestern Thiruvananthapuram."
+
+
+           
+
+
+        }
+        
 ]
 
 
