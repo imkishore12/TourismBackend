@@ -38,10 +38,10 @@ const indiantourism=[
             "category":"indiatousrism",
             "Image":"https://www.theindiatourism.com/images/Himachal-Pradesh-Tourism.jpg",
             "State":"Himachal Pradesh Tourism",
-            "Description":"",
-            "History":"",
-            "fairfestivals":"",
-            "Reach":""
+            "Description":"Himachal Pradesh is one of the most popular and easily accessible Hill State of India. People from all parts of the country as well from different parts of  the world visit this beautiful State to enjoy its natural beauty. The Himachal Pradesh Tourism Development Corporation has acted as a catalyst, trendsetter and a prime mover for the promotion of domestic and foreign tourism in Himachal Pradesh. We have wide network of accommodation that comprises of Hotels, Restaurants and Cafeterias serving varied cuisine, including Himachali delicacies. All these properties are in superb locations in the lap of nature.",
+            "History":"Himachal Pradesh was established in 1948 as a Chief Commissioner's Province within the Union of India. The Himachal History The province comprised the hill districts around Shimla and southern hill areas of the former Punjab region. Himachal became a part C state on 26 January 1950 with the implementation of the Constitution of India. Himachal Pradesh became a Union Territory on 1 November 1956. On 18 December 1970 the State of Himachal Pradesh Act was passed by Parliament and the new state came into being on 25 January 1971. Thus Himachal emerged as the eighteenth state of the Indian Union.In earlier times, the area was variously divided among smaller kingdoms, such as those of Chamba, Bilaspur, Bhagal and Dhami. After the Gurkha War of 1815–1816, it became part of the British India.",
+            "fairfestivals":" Himachal Pradesh is known for its rich cultural diversity. There are as many as seven international fairs/festivals celebrated in the state. These fairs/festivals are of historical, cultural and economic importance as they play a vital role in the life of local people",
+            "Reach":"For those tourists who come outside India the best airport is Indira Gandhi International Airport. However, Kullu also houses an airport that is only 23km away. There are regular flights from Delhi to Kullu."
 
 
         }
@@ -132,6 +132,134 @@ const indiantourism=[
             "category":"static",
             "Image":"https://www.theindiatourism.com/images/Wildlife-Tours.jpg",
             "State":"Wild Life Tours",
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"placestovisit",
+            "Image":"https://www.theindiatourism.com/images/Destination-Andhra-Pradesh.jpg",
+            "State":"Andhra Pradesh",
+            "city1":"Visakhapatnam",
+
+            "city2":"Tirupati",
+            
+            "city3":"Vijayawada",
+            
+            "city4":"Anantapur",
+            
+            "city5":"Srikalahasti",
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"placestovisit",
+            "Image":"https://www.theindiatourism.com/images/tourism-arunachal-pradesh.jpg",
+            "State":"Arunchal Pradesh",
+            "city1":"Tawang",
+
+            "city2":"Itanagar",
+            
+            "city3":"Bomdila",
+            
+            "city4":"Bhalukpong",
+            
+            "city5":"Pasighat",
+            
+            
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"placestovisit",
+            "Image":"https://www.theindiatourism.com/images/Top-destination-Assam.jpg",
+            "State":"Assam",
+            "city1":"Guwahati",
+
+            "city2":"Jorhat",
+            
+            "city3":"Tezpur",
+            
+            "city4":"Dibrugarh",
+            
+            "city5":"Sivasagar",
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"placestovisit",
+            "Image":"https://www.theindiatourism.com/images/Bihar-tourist.jpg",
+            "State":"Bihar",
+            "city1":"Gaya",
+
+            "city2":"Nalanda",
+            
+            "city3":"Munger",
+            
+            "city4":"Patna",
+            
+            "city5":"Sonepur Fair",
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"placestovisit",
+            "Image":"https://www.theindiatourism.com/images/Destination-Chhattisgarh.jpg",
+            "State":"Chhattisgarh",
+            "city1":"Raipur",
+
+            "city2":"Bilaspur",
+            
+            "city3":"Jagdalpur",
+            
+            "city4":"Dongargarh",
+            
+            "city5":"Ratanpur",
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"placestovisit",
+            "Image":"https://www.theindiatourism.com/images/Gujarat-destination.jpg",
+            "State":"Gujarat",
+            "city1":"Ahmedabad",
+
+            "city2":"Vadodara",
+            
+            "city3":"Rajkot",
+            
+            "city4":"Porbandar",
+            
+            "city5":"Gandhinagar",
+           
+
+
+        },
+        {
+            "id":Count++,
+            "category":"placestovisit",
+            "Image":"https://www.theindiatourism.com/images/Haryana-destination.jpg",
+            "State":"Haryana",
+            "city1":"Gurugram",
+
+            "city2":"Kurukshetra",
+            
+            "city3":"Panchkula",
+            
+            "city4":"Faridabad",
+            
+            "city5":"Chandigarh",
            
 
 
